@@ -30,4 +30,4 @@ client.on('messageCreate', (message) => {
 });
 
 // هنا حطي التوكين بتاعك بين علامات التنصيص
-client.login('process.env.DISCORD_TOKEN');
+client.login('MTUzNjg0MzAyMzc2ODM1ODk5Mg.G3I8uE.84q7sz4_Qg9tgTTyTF2i0otVvl5I4pbDvKpBUg');
